@@ -2,3 +2,5 @@ name = "GregRegistry"
 uuid = "ce8661f2-6496-4f32-bd74-1d3f42d63d43"
 repo = "https://github.com/grlap/Registry"
 description = "Private repository"
+
+[packages]
