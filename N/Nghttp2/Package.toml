@@ -1,0 +1,3 @@
+name = "Nghttp2"
+uuid = "d59d01c2-cedb-43fa-bb24-e6eaeb189957"
+repo = "https://github.com/grlap/Nghttp2.jl"
